@@ -1,4 +1,4 @@
-# react-google-map-with-recompose-library
+# react-google-map-with-recompose
 
 I used Google Map with recompose library in this project. This project created w/ ReactJS.
 
